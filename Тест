@@ -1,7 +1,10 @@
 #include <iostream>
+#include <string>
 
 int main ()
 {
 
+string hi = "hello world";
+cout<< hi<<endl;
 return 0;
 }
